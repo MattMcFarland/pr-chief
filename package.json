@@ -8,7 +8,7 @@
     "start": "node lib",
     "lint": "standard lib/**/*.js"
   },
-  "author": "",
+  "author": "Matt McFarland <contact@mattmcfarland.com>",
   "license": "ISC",
   "dependencies": {
     "cross-spawn": "^5.1.0",
