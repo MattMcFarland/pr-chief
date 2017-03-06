@@ -1,0 +1,25 @@
+{
+  "name": "pr-chief",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib",
+  "bin": "lib",
+  "scripts": {
+    "start": "node lib",
+    "lint": "standard lib/**/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-spawn": "^5.1.0",
+    "git-config": "0.0.7",
+    "inquirer": "^3.0.6"
+  },
+  "devDependencies": {
+    "standard": "^9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MattMcFarland/sequelize-relay.git"
+  }
+}
