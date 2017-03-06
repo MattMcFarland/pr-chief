@@ -13,6 +13,7 @@
   "dependencies": {
     "cross-spawn": "^5.1.0",
     "git-config": "0.0.7",
+    "https-proxy-agent": "1.0.0",
     "inquirer": "^3.0.6"
   },
   "devDependencies": {
