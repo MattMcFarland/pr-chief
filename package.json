@@ -2,8 +2,8 @@
   "name": "pr-chief",
   "version": "0.0.0",
   "description": "",
-  "main": "lib",
-  "bin": "lib",
+  "main": "lib/index.js",
+  "bin": "lib/index.js",
   "scripts": {
     "start": "node lib",
     "lint": "standard lib/**/*.js"
